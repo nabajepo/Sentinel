@@ -89,5 +89,5 @@ sentinel/
 ├─ test_detector.py # Tests for "non-owner" session detection logic
 └─ test_notifier.py # Tests email notification behavior
 
-# Project - Tree
+
 
