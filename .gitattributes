@@ -1,0 +1,2 @@
+sentinel_app/model_ai/*.weights filter=lfs diff=lfs merge=lfs -text
+sentinel_app/model_ai/*.keras filter=lfs diff=lfs merge=lfs -text
