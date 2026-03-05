@@ -42,10 +42,10 @@ to protect your **own devices** in case of theft or unauthorized access, **not**
 Use Sentinel **only on devices that you own or administer** and always respect local laws and privacy rules.
 
 # Project - tree
-sentinel/
-├─ README.md # Sentinel 🛡️ – Personal Session Guard (Python)
+sentinel/ <br>
+├─ README.md # Sentinel 🛡️ – Personal Session Guard (Python) <br>
 │ # Sentinel helps you monitor who is using your own computer.
-│ # v1 focuses on detecting a non-owner session, capturing a picture,
+│ # v1 focuses on detecting a non-owner session, capturing a picture, <
 │ # logging session activity, and sending an email notification.
 │ # Goal: Educational & defensive, not intended for spying.
 │
