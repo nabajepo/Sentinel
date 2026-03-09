@@ -52,9 +52,13 @@ Architecture
 # Run Sentinel
 
 ### 1. Install dependencies
-
+#### a) Global dependencies
 ```bash
 pip install -r requirements.txt
+```
+#### b) Windows dependencies
+```bash
+pip install -r sentinel_app/dependencies_os/windows_dependencies.txt
 ```
 ### 2. Configure email settings
 Create a .env file based on: .env.local
