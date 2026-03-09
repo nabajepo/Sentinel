@@ -61,7 +61,7 @@ Create a .env file based on: .env.local
 
 ### 3.Run the program
 ```bash
-python -m sentinel.cli.main
+python -m sentinel_app.cli.main
 ```
 
 ---
